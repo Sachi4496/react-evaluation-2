@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "name": "wipro",
+      "title": "software devloper",
+      "job": "abx",
+      "salary": "3000",
+      "loc": "Bangalore",
+      "type": "work from home",
+      "id": 1
+    },
+    {
+      "name": "masai",
+      "title": "IA",
+      "job": "abx",
+      "salary": "60000",
+      "loc": "Bangalore",
+      "type": "work from home",
+      "id": 2
+    },
+    {
+      "name": "masai",
+      "title": "IA",
+      "job": "abx",
+      "salary": "60000",
+      "loc": "pune",
+      "type": "work from home",
+      "id": 3
+    },
+    {
+      "name": "TCS",
+      "title": "System eng.",
+      "job": "abx",
+      "salary": "70000",
+      "loc": "Mumbai",
+      "type": "work from home",
+      "id": 4
+    },
+    {
+      "name": "TCS",
+      "title": "React Devloper",
+      "job": "abx",
+      "salary": "90000",
+      "loc": "Bangalore",
+      "type": "work from home",
+      "id": 5
+    },
+    {
+      "name": "TCS",
+      "title": "Express Devloper",
+      "job": "abx",
+      "salary": "20000",
+      "loc": "Bangalore",
+      "type": "work from home",
+      "id": 6
+    },
+    {
+      "name": "Masai",
+      "title": "SDE-1",
+      "job": "Asns",
+      "salary": "85000",
+      "loc": "Hydrabad",
+      "type": "devloper",
+      "id": 7
+    },
+    {
+      "name": "Messho",
+      "title": "SDE-1",
+      "job": "xyz",
+      "salary": "85000",
+      "loc": "Banglore",
+      "type": "devloper",
+      "id": 8
+    },
+    {
+      "name": "Tcs",
+      "title": "data entry",
+      "job": "xyz",
+      "salary": "10000",
+      "loc": "Banglore",
+      "type": "devloper",
+      "id": 9
+    }
+  ]
+}
