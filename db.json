@@ -80,6 +80,33 @@
       "loc": "Banglore",
       "type": "devloper",
       "id": 9
+    },
+    {
+      "name": "abc",
+      "title": "devops",
+      "job": "ass",
+      "salary": "200000",
+      "loc": "pune",
+      "type": "work from home",
+      "id": 10
+    },
+    {
+      "name": "masai school",
+      "title": "devops",
+      "job": "ass",
+      "salary": "200000",
+      "loc": "pune",
+      "type": "work from home",
+      "id": 11
+    },
+    {
+      "name": "masai school",
+      "title": "ia",
+      "job": "ass",
+      "salary": "65000",
+      "loc": "bangalore",
+      "type": "work from home",
+      "id": 12
     }
   ]
 }
